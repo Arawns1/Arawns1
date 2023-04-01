@@ -20,7 +20,7 @@
 A maioria de meus projetos são uma mistura de coisas que eu criei por conta própria, trabalhos da faculdade e cursos que fiz, então você pode esperar ver um pouco de tudo por aqui.
 
 - ▶ <a href="https://github.com/Arawns1/Atividades-Faculdade">Trabalhos da faculdade</a>
-- ▶ Projetos realizados no Serratec 2023.1
+- ▶ <a href= "https://github.com/Arawns1/Serratec-2023.1"> Projetos realizados no Serratec 2023.1 </a>
 
 <br/>
 
