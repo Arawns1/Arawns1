@@ -44,6 +44,6 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: dist
+          build_dir: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
