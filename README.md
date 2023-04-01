@@ -1,34 +1,62 @@
-<h2 align="center">Bem vindo ao meu perfil!</h2>
-
-🙋‍♂️ Olá, me chamo Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, adoro atividades desafiadoras e que me tirem da zona de conforto. 
-
-🤓 Amo estudar e aprender coisas novas estando sempre aberto a analisar perspectivas diferentes e conhecer novas histórias, sou proativo e busco sempre me empenhar ao máximo, com garra e compaixão, nas coisas que gosto.
-
-📖 Cursando Residência em TIC pelo Serratec 2023
-
-📚 Cursando 3° periodo de Ciência da Computação na Faculdade Descomplica
-
-🔮 Previsão do ano de conclusão do curso de Ciência da Computação: 12/2026
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;Hello+welcome+to+my+profile👋;Ciao+benvenuto+al+mio+profilo👋;+:%29)](https://git.io/typing-svg)
 
+## 👨‍💻 Quem sou eu
 
+🙋‍♂️ Sou Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📖 Atualmente estou participando da Residência em TIC pelo Serratec 2023.1
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arawns1&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="arawns1" /></p>
+📚 Além disso, também estou no 3° periodo de Ciência da Computação na ![Faculdade Descomplica](https://descomplica.com.br/faculdade/) e a previsão de conclusão do curso é em 12/2026
 
+## 📂 O que você vai encontrar no meu perfil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arawns1&show_icons=true&theme=dracula&locale=pt-br)
+A maioria de meus projetos são uma mistura de coisas que eu criei por conta própria, trabalhos da faculdade e cursos que fiz, então você pode esperar ver um pouco de tudo por aqui.
 
+- ▶ Trabalhos da faculdade
+- ▶ Projetos realizados no Serratec 2023.1
 
-<h2 align="left">Conecte-se comigo:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-damico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel damico" height="30" width="40" /></a>
-<a href="https://www.behance.net/arawns_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arawns_designer" height="30" width="40" /></a>
-</p>
+<br/>
+
+ ## 💻Tecnologias que uso:
+ 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=white)&nbsp;
+![Postgree](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
+![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+
+## ✨Tecnologias que tenho interesse:
+
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+
+<br/>
+
+## 📊 Algumas estatísticas
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arawns1&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Gabriel Damico github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arawns1&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+</div>
 
 ![snake gif](https://github.com/Arawns1/Arawns1/blob/output/github-contribution-grid-snake.svg)
 
+<br/>
 
+## 🔎 Onde me encontrar
+E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo pelos contatos abaixo! Estou sempre procurando aprender mais e trocar ideias.
+
+<div align="center"> 
+<a href = "mailto:gabrieldamico22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-damico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.behance.net/arawns_designer" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&color=0067ff&logo=behance&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = ""> <img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white&color=7289da" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
