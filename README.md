@@ -1,10 +1,8 @@
 <h2 align="center">Bem vindo ao meu perfil!</h2>
 
-🙋‍♂️ Olá, me chamo Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, adoro atividades desafiadoras e que me tirem da zona de conforto.
+🙋‍♂️ Olá, me chamo Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, adoro atividades desafiadoras e que me tirem da zona de conforto. 
 
-🎨 Além disso, trabalho com design, animação e edições desde meus 12 anos como hobby, realizando diversos projetos paralelos para amigos e conhecidos, sem nenhum vínculo empregatício. Gostaria de transformar esse meu conhecimento em uma forma de agregar valor a pessoas ou empresas. 
-
-🤓 Por fim, amo estudar e aprender coisas novas estando sempre aberto a analisar perspectivas diferentes e conhecer novas histórias, sou proativo e busco sempre me empenhar ao máximo, com garra e compaixão, nas coisas que gosto.
+🤓 Amo estudar e aprender coisas novas estando sempre aberto a analisar perspectivas diferentes e conhecer novas histórias, sou proativo e busco sempre me empenhar ao máximo, com garra e compaixão, nas coisas que gosto.
 
 📖 Cursando Residência em TIC pelo Serratec 2023
 
