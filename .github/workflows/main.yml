@@ -24,9 +24,8 @@ jobs:
         with:
           github_user_name: Arawns1 #Seu usuario
           outputs: |
-           dist/purple.svg?palette=github-dark&color_snake=#57ED51&color_dots=#171A22,#7B68EE,#6f5dd4,#5B4CAD,#39306E
-           dist/purple.gif?palette=github-dark&color_snake=#57ED51&color_dots=#171A22,#7B68EE,#6f5dd4,#5B4CAD,#39306E
-           dist/ocean.gif?palette=github&color_snake=#57ED51&color_dots=#F0F0F0,#7B68EE,#6f5dd4,#5B4CAD,#39306E
+           dist/dark.svg?palette=github-dark&color_snake=#57ED51&color_dots=#171A22,#B4B3F5,#8A79D6,#7A59F4,#5D31F5
+           dist/light.svg?palette=github&color_snake=#57ED51&color_dots=#F0F0F0,#B4B3F5,#8A79D6,#7A59F4,#5D31F5
          
 
       - run: git status
