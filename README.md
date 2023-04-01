@@ -1,3 +1,5 @@
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 
@@ -9,7 +11,7 @@
 
 📖 Atualmente estou participando da Residência em TIC pelo Serratec 2023.1
 
-📚 Além disso, também estou no 3° periodo de Ciência da Computação na ![Faculdade Descomplica](https://descomplica.com.br/faculdade/) e a previsão de conclusão do curso é em 12/2026
+📚 Além disso, também estou no 3° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
 
 ## 📂 O que você vai encontrar no meu perfil
 
