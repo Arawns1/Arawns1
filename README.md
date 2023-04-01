@@ -49,9 +49,10 @@ A maioria de meus projetos s√£o uma mistura de coisas que eu criei por conta pr√
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arawns1&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
+![Snakegif](https://github.com/Arawns1/Arawns1/blob/output/purple.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arawns1/Arawns1/blob/output/purple.gif)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arawns1/Arawns1/blob/output/purple.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arawns1/Arawns1/blob/output/ocean.gif">
 </picture>
 
