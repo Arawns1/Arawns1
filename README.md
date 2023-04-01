@@ -19,7 +19,7 @@
 
 A maioria de meus projetos são uma mistura de coisas que eu criei por conta própria, trabalhos da faculdade e cursos que fiz, então você pode esperar ver um pouco de tudo por aqui.
 
-- ▶ Trabalhos da faculdade
+- ▶ ![Trabalhos da faculdade](https://github.com/Arawns1/Atividades-Faculdade)
 - ▶ Projetos realizados no Serratec 2023.1
 
 <br/>
