@@ -13,6 +13,8 @@
 
 📚 Além disso, também estou no 3° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
 
+<br/>
+
 ## 📂 O que você vai encontrar no meu perfil
 
 A maioria de meus projetos são uma mistura de coisas que eu criei por conta própria, trabalhos da faculdade e cursos que fiz, então você pode esperar ver um pouco de tudo por aqui.
