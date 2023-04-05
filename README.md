@@ -67,7 +67,8 @@ E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em co
 <a href = "mailto:gabrieldamico22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-damico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.behance.net/arawns_designer" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&color=0067ff&logo=behance&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = ""> <img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white&color=7289da" target="_blank"></a>
+<a href = "" target="_blank"> <img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white&color=7289da" ></a>
+<a href = "https://www.hackerrank.com/arawns" target ="_blank"> <img src ="https://img.shields.io/badge/-Hackerrank-230077B5?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
