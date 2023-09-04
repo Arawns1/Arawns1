@@ -34,9 +34,12 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-
-## ✨Tecnologias que tenho interesse:
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
+## ✨Tecnologias que tenho interesse:
+![Next.js](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br/>
