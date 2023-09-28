@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️Sou Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
+🙋‍♂️Sou Gabriel Damico tenho 20 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
 
 📖 Atualmente estou participando da Residência em TIC pelo Serratec 2023.1
 
