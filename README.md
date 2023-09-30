@@ -9,7 +9,7 @@
 
 🙋‍♂️Sou Gabriel Damico tenho 20 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
 
-📖 Atualmente estou participando da Residência em TIC pelo Serratec 2023.1
+📖 Recentemente, conclui a Residência em TIC pelo Serratec 2023.1
 
 📚 Além disso, também estou no 3° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
 
@@ -21,6 +21,9 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 
 - ▶ <a href="https://github.com/Arawns1/Atividades-Faculdade">Trabalhos da faculdade</a>
 - ▶ <a href= "https://github.com/Arawns1/Serratec-2023.1"> Projetos realizados no Serratec 2023.1 </a>
+- ▶ <a href= "https://github.com/Arawns1/Cinema-Majestic"> Projeto: Cinema Majestic </a>
+- ▶ <a href= "https://github.com/Arawns1/Trabalho-React-HexByte"> Projeto: Loja HexByte </a>
+- ▶ <a href= "https://youtu.be/yIxvEfjivOE?si=9LjJqo-Pc6MiSVy9&t=5574"> Projeto: Serviços de Agendamento Prefeitura de Teresópolis </a>
 
 <br/>
 
