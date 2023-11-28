@@ -11,7 +11,7 @@
 
 📖 Recentemente, conclui a Residência em TIC pelo Serratec 2023.1
 
-📚 Além disso, também estou no 3° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
+📚 Além disso, também estou no 4° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
 
 <br/>
 
