@@ -46,7 +46,7 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 ![Next.js](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=GraphQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 <br/>
 
 ## 📊 Algumas estatísticas
