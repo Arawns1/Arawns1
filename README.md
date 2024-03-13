@@ -11,7 +11,7 @@
 
 📖 Recentemente, conclui a Residência em TIC pelo Serratec 2023.1
 
-📚 Além disso, também estou no 4° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
+📚 Além disso, também estou no 6° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
 
 <br/>
 
@@ -42,8 +42,11 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ReactNative](https://img.shields.io/badge/ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117&textColor=0D1117)&nbsp;
-## ✨Tecnologias que tenho interesse:
 ![Next.js](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=0D1117)&nbsp;
+## ✨Tecnologias que tenho interesse:
+![Remix](https://img.shields.io/badge/-Remix-0D1117?style=for-the-badge&logo=Remix&labelColor=0D1117&textColor=0D1117)&nbsp;
+![tRRC](https://img.shields.io/badge/-trpc-0D1117?style=for-the-badge&logo=trpc&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Keycloak](https://img.shields.io/badge/-keycloak-0D1117?style=for-the-badge&logo=keycloak&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=GraphQL&labelColor=0D1117&textColor=0D1117)&nbsp;
