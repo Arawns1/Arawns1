@@ -42,7 +42,8 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ReactNative](https://img.shields.io/badge/ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ## ✨Tecnologias que tenho interesse:
 ![Remix](https://img.shields.io/badge/-Remix-0D1117?style=for-the-badge&logo=Remix&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![tRRC](https://img.shields.io/badge/-trpc-0D1117?style=for-the-badge&logo=trpc&labelColor=0D1117&textColor=0D1117)&nbsp;
