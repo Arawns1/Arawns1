@@ -7,13 +7,7 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️Sou Gabriel Damico tenho 21 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
-
-📖 Recentemente, conclui a Residência em TIC pelo Serratec 2023.1
-
-📚 Além disso, também estou no 6° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
-
-<br/>
+🙋‍♂️Sou Gabriel Damico tenho 21 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo.
 
 ## 📂 O que você vai encontrar no meu perfil
 
