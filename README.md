@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️Sou Gabriel Damico tenho 21 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo.
+🙋‍♂️Sou Gabriel Damico e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo.
 
 ## 📂 O que você vai encontrar no meu perfil
 
